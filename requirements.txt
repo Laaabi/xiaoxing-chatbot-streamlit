@@ -1,5 +1,7 @@
-altair
-numpy
-pandas
-pydeck
 streamlit
+pandas
+jieba
+openai
+torch
+scikit-learn
+lightfm
